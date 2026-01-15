@@ -1,4 +1,4 @@
-const buildTree = require('../Binary Tree/main.js');
+const buildTree = require('../Utility/Binary Tree/main.js');
 
 /**
  * Definition for a binary tree node.
