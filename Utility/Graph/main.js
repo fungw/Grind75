@@ -20,4 +20,4 @@ function buildGraph(adjList) {
   return nodes[0];
 }
 
-module.exports = buildGraph;
+module.exports = { buildGraph, Node };
