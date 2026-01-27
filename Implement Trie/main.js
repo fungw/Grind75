@@ -57,8 +57,3 @@ Trie.prototype.startsWith = function(prefix) {
  * var param_2 = obj.search(word)
  * var param_3 = obj.startsWith(prefix)
  */
-
-var obj = new Trie();
-obj.insert('test');
-var param_2 = obj.search('test');
-console.log(param_2);
