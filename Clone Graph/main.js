@@ -1,4 +1,4 @@
-const { buildGraph, Node } = require('../Utility/Graph/main.js');
+import { buildGraph, Node } from '../Utility/Graph/main.js';
 
 /**
  * // Definition for a _Node.

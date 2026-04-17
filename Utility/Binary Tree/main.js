@@ -30,4 +30,4 @@ function buildTree(arr) {
   return root;
 }
 
-module.exports = buildTree;
+export default buildTree;
